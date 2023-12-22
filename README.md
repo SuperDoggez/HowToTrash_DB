@@ -15,7 +15,7 @@
 
 1.  Download and Extract File
 2.  Install MAMP (or XAMPP)
-3.  Open "..\MAMP\htdocs"
+3.  Open ".\MAMP\htdocs"
 4.  Copy and Paste Folder "sqlconnect"
 5.  Start Server and go to phpMyAdmin page
 6.  Create schema name "unityaccess"
