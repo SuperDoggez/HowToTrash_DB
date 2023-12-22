@@ -11,7 +11,7 @@
 
 
 
-## Installation Guides for Windows
+## Installation Guides
 
 1.  Download and Extract File
 2.  Install MAMP (or XAMPP)
